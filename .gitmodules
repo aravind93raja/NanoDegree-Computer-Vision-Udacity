@@ -1,0 +1,9 @@
+[submodule "Project-Facial-Keypoint-Detection"]
+	path = Project-Facial-Keypoint-Detection
+	url = https://github.com/aravind93raja/Project-Facial-Keypoint-Detection
+[submodule "Project-Image-Captioning"]
+	path = Project-Image-Captioning
+	url = https://github.com/aravind93raja/Project-Image-Captioning
+[submodule "Project-LandMark-Detection-and-Tracking-SLAM-"]
+	path = Project-LandMark-Detection-and-Tracking-SLAM-
+	url = https://github.com/aravind93raja/Project-LandMark-Detection-and-Tracking-SLAM-
