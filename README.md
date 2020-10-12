@@ -1,6 +1,14 @@
 # NanoDegree Program on COMPUTER VISION 
 
-## Collection of Projects part of the above mentioned program by Udacity
+## Collection of Projects part of the [Computer Vision NanoDegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) program by Udacity
+
+The furthur details for every project :
+
+1) Setup & Build Instruction
+
+2) Sample Results 
+
+have been provided in the README.md of each repository 
 
 ### 1) Project - Facial Keypoint Detection
 
